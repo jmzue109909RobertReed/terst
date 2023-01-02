@@ -769,3 +769,4 @@ Improved user interface design
 Added comprehensive test coverage - v4.3.4
 Updated styling and themes - build 677
 Added comprehensive test coverage - build 976
+Updated styling and themes - update 8
