@@ -92,3 +92,4 @@ Fixed memory management issue - 219
 Added new feature for better user experience - v7.3.5
 Updated configuration settings
 Code cleanup and formatting - build 363
+Updated styling and themes - build 158
