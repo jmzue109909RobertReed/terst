@@ -1371,3 +1371,4 @@ Refactored code for better maintainability
 Updated configuration settings - build 135
 Updated README with new instructions - v10.6.2
 Improved performance optimization - build 782
+Fixed memory management issue - v9.9.7
