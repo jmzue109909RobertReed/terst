@@ -3547,3 +3547,4 @@ Updated README with new instructions - build 609
 Added comprehensive test coverage - build 757
 Fixed typo in documentation - v5.4.3
 Updated version number
+Updated configuration settings - 249
