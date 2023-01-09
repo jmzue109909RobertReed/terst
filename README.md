@@ -3549,3 +3549,4 @@ Fixed typo in documentation - v5.4.3
 Updated version number
 Updated configuration settings - 249
 Updated styling and themes - v1.5.6
+Updated README with new instructions - v9.7.9
