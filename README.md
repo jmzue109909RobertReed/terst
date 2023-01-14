@@ -2894,3 +2894,4 @@ Updated project documentation - v4.1.8
 Updated dependencies to latest versions - build 693
 Updated configuration settings - 913
 Updated dependencies to latest versions - update 35
+Fixed memory management issue - 286
