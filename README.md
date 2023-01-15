@@ -36,3 +36,4 @@ Fixed typo in documentation - v9.5.3
 Fixed critical bug in main module
 Updated README with new instructions - v5.7.4
 Fixed memory management issue - 988
+Improved user interface design
