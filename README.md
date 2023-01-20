@@ -781,3 +781,4 @@ Improved user interface design - update 32
 Code cleanup and formatting - build 813
 Fixed memory management issue - update 15
 Added detailed comments for clarity
+Fixed memory management issue - build 840
