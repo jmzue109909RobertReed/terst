@@ -2194,3 +2194,4 @@ Fixed code formatting issues - update 4
 Added detailed comments for clarity - 438
 Refactored code for better maintainability - build 941
 Improved user interface design - v9.7.2
+Updated README with new instructions - 584
