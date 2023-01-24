@@ -3533,3 +3533,4 @@ Updated configuration settings - update 24
 Fixed typo in documentation - v7.8.6
 Code cleanup and formatting
 Updated dependencies to latest versions - v4.3.1
+Added proper error handling - v6.5.5
