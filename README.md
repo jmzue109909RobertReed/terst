@@ -208,3 +208,4 @@ Fixed critical bug in main module - update 9
 Fixed critical bug in main module - build 498
 Code cleanup and formatting - build 478
 Fixed critical bug in main module - 736
+Added detailed comments for clarity
