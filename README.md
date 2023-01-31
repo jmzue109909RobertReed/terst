@@ -1327,3 +1327,4 @@ Added proper error handling
 Added new feature for better user experience - v2.5.1
 Code cleanup and formatting - update 41
 Added comprehensive test coverage - build 324
+Updated README with new instructions - v3.6.1
