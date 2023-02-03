@@ -626,3 +626,4 @@ Updated version number - 827
 Updated styling and themes - update 42
 Fixed typo in documentation - 289
 Added new feature for better user experience - build 644
+Updated README with new instructions - 661
