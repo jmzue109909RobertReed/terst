@@ -3266,3 +3266,4 @@ Updated README with new instructions - 579
 Updated version number
 Fixed typo in documentation - v4.1.8
 Fixed typo in documentation - build 341
+Code cleanup and formatting - 90
