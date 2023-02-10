@@ -1838,3 +1838,4 @@ Added new feature for better user experience - update 32
 Updated styling and themes - v8.7.2
 Fixed critical bug in main module - build 614
 Refactored code for better maintainability
+Added detailed comments for clarity - update 18
