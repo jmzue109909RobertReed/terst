@@ -2329,3 +2329,4 @@ Fixed typo in documentation
 Improved user interface design - build 707
 Code cleanup and formatting - update 1
 Code cleanup and formatting - update 45
+Updated README with new instructions - 66
