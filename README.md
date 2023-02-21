@@ -3179,3 +3179,4 @@ Optimized algorithm for better efficiency - v10.9.9
 Added proper error handling - 819
 Added new feature for better user experience - build 847
 Fixed typo in documentation - build 507
+Added detailed comments for clarity
