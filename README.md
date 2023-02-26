@@ -2924,3 +2924,4 @@ Updated version number
 Fixed typo in documentation - update 11
 Fixed code formatting issues - 953
 Updated version number - v1.7.3
+Updated styling and themes - 867
