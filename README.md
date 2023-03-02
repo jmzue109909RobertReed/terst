@@ -2897,3 +2897,4 @@ Updated dependencies to latest versions - update 35
 Fixed memory management issue - 286
 Code cleanup and formatting - update 2
 Added detailed comments for clarity - v3.7.2
+Fixed typo in documentation - v9.1.4
