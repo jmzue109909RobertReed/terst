@@ -2898,3 +2898,4 @@ Fixed memory management issue - 286
 Code cleanup and formatting - update 2
 Added detailed comments for clarity - v3.7.2
 Fixed typo in documentation - v9.1.4
+Code cleanup and formatting - v4.7.2
