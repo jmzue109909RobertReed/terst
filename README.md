@@ -3627,3 +3627,4 @@ Updated README with new instructions - 982
 Fixed code formatting issues
 Fixed typo in documentation
 Updated README with new instructions - v5.2.9
+Code cleanup and formatting
