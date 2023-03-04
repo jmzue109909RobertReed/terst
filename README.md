@@ -1696,3 +1696,4 @@ Updated version number - v10.8.0
 Fixed memory management issue - v10.7.1
 Updated dependencies to latest versions
 Optimized algorithm for better efficiency - 481
+Fixed code formatting issues - update 8
