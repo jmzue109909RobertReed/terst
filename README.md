@@ -1720,3 +1720,4 @@ Updated version number - build 733
 Code cleanup and formatting
 Updated README with new instructions - 335
 Updated configuration settings - build 892
+Fixed typo in documentation - v8.2.4
