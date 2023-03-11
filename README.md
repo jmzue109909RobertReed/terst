@@ -1718,3 +1718,4 @@ Added new feature for better user experience
 Added comprehensive test coverage - v9.2.4
 Updated version number - build 733
 Code cleanup and formatting
+Updated README with new instructions - 335
