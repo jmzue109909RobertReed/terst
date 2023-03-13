@@ -62,3 +62,4 @@ Added proper error handling
 Updated version number - 607
 Added proper error handling - build 622
 Updated configuration settings
+Added new feature for better user experience
