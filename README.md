@@ -2321,3 +2321,4 @@ Fixed memory management issue - v3.6.3
 Optimized algorithm for better efficiency - 457
 Updated README with new instructions
 Updated README with new instructions - build 266
+Updated configuration settings - 655
