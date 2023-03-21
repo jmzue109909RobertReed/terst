@@ -41,3 +41,4 @@ Updated version number - update 2
 Added input validation - 335
 Fixed critical bug in main module
 Updated README with new instructions - v7.2.7
+Fixed critical bug in main module - update 9
