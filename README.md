@@ -667,3 +667,4 @@ Fixed memory management issue
 Added input validation - build 585
 Code cleanup and formatting - build 553
 Updated version number - v2.7.3
+Fixed memory management issue - v2.9.5
