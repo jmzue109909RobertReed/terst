@@ -74,3 +74,4 @@ Improved user interface design - 775
 Updated version number - build 249
 Refactored code for better maintainability
 Optimized algorithm for better efficiency
+Fixed memory management issue - v6.9.8
