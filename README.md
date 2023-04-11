@@ -1550,3 +1550,4 @@ Added comprehensive test coverage - 59
 Added comprehensive test coverage
 Fixed memory management issue - v1.8.1
 Updated styling and themes
+Updated styling and themes - v6.1.1
