@@ -1548,3 +1548,4 @@ Fixed critical bug in main module - v8.6.8
 Updated README with new instructions - v6.8.2
 Added comprehensive test coverage - 59
 Added comprehensive test coverage
+Fixed memory management issue - v1.8.1
