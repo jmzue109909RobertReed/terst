@@ -57,3 +57,4 @@ Added input validation
 Added new feature for better user experience
 Optimized algorithm for better efficiency
 Updated project documentation
+Updated README with new instructions - build 261
