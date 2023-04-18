@@ -169,3 +169,4 @@ Refactored code for better maintainability - v2.7.0
 Fixed typo in documentation - 47
 Updated dependencies to latest versions
 Updated styling and themes - build 178
+Updated README with new instructions - 178
