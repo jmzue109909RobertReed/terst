@@ -170,3 +170,4 @@ Fixed typo in documentation - 47
 Updated dependencies to latest versions
 Updated styling and themes - build 178
 Updated README with new instructions - 178
+Updated styling and themes - update 24
