@@ -1082,3 +1082,4 @@ Updated project documentation - v5.3.4
 Added new feature for better user experience - update 35
 Fixed code formatting issues
 Fixed typo in documentation - 663
+Fixed memory management issue - 711
