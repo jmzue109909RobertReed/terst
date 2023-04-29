@@ -842,3 +842,4 @@ Updated dependencies to latest versions - 791
 Code cleanup and formatting - 782
 Improved performance optimization - update 6
 Added new feature for better user experience
+Fixed typo in documentation
