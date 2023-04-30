@@ -2676,3 +2676,4 @@ Fixed typo in documentation
 Updated dependencies to latest versions - 482
 Updated version number - update 12
 Updated dependencies to latest versions - v1.2.7
+Added new feature for better user experience - build 173
