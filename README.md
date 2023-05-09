@@ -1693,3 +1693,4 @@ Added input validation - build 438
 Added comprehensive test coverage
 Updated configuration settings - build 184
 Updated version number - v10.8.0
+Fixed memory management issue - v10.7.1
