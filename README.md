@@ -1232,3 +1232,4 @@ Fixed code formatting issues - update 50
 Fixed code formatting issues - v6.4.3
 Optimized algorithm for better efficiency - build 726
 Added new feature for better user experience - build 228
+Fixed memory management issue - build 496
