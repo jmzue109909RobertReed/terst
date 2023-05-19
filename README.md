@@ -1633,3 +1633,4 @@ Code cleanup and formatting
 Fixed critical bug in main module - v9.9.5
 Updated configuration settings - build 455
 Fixed memory management issue
+Added detailed comments for clarity - build 171
