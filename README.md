@@ -1100,3 +1100,4 @@ Improved performance optimization - update 1
 Fixed memory management issue
 Fixed typo in documentation - v5.7.9
 Fixed typo in documentation
+Updated README with new instructions - 696
