@@ -1098,3 +1098,4 @@ Updated version number - v8.2.0
 Added new feature for better user experience - 206
 Improved performance optimization - update 1
 Fixed memory management issue
+Fixed typo in documentation - v5.7.9
