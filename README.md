@@ -2376,3 +2376,4 @@ Fixed memory management issue - 400
 Updated styling and themes
 Fixed typo in documentation - 590
 Updated project documentation - build 422
+Updated README with new instructions - build 575
