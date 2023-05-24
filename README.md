@@ -1347,3 +1347,4 @@ Fixed memory management issue - update 18
 Updated version number - v10.9.5
 Updated dependencies to latest versions - v9.0.8
 Added new feature for better user experience
+Added detailed comments for clarity - update 24
