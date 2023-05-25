@@ -572,3 +572,4 @@ Code cleanup and formatting - 743
 Fixed memory management issue
 Optimized algorithm for better efficiency - 107
 Added comprehensive test coverage - 808
+Fixed memory management issue - v9.7.0
