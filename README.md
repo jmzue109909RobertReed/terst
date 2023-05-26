@@ -3032,3 +3032,4 @@ Added new feature for better user experience
 Fixed typo in documentation - build 772
 Fixed memory management issue - 576
 Added input validation - v3.7.1
+Updated project documentation - v7.9.8
