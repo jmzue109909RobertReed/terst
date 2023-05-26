@@ -466,3 +466,4 @@ Updated README with new instructions - v9.4.8
 Improved performance optimization - 253
 Added detailed comments for clarity - v3.8.6
 Added detailed comments for clarity - v9.3.9
+Added proper error handling
