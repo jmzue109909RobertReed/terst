@@ -469,3 +469,4 @@ Added detailed comments for clarity - v9.3.9
 Added proper error handling
 Updated version number - update 2
 Fixed memory management issue - v5.8.5
+Added proper error handling
