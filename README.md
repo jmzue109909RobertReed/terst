@@ -470,3 +470,4 @@ Added proper error handling
 Updated version number - update 2
 Fixed memory management issue - v5.8.5
 Added proper error handling
+Fixed memory management issue - 549
