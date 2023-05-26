@@ -3031,3 +3031,4 @@ Updated README with new instructions
 Added new feature for better user experience
 Fixed typo in documentation - build 772
 Fixed memory management issue - 576
+Added input validation - v3.7.1
