@@ -1943,3 +1943,4 @@ Added input validation - update 24
 Code cleanup and formatting - v2.8.9
 Optimized algorithm for better efficiency
 Updated version number
+Fixed memory management issue - v5.1.0
