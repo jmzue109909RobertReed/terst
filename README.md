@@ -28,3 +28,4 @@ Added new feature for better user experience - 288
 Updated project documentation - 158
 Added comprehensive test coverage
 Added new feature for better user experience - 225
+Updated project documentation - v6.9.5
