@@ -994,3 +994,4 @@ Code cleanup and formatting - v6.5.9
 Fixed typo in documentation - build 549
 Fixed typo in documentation - build 307
 Improved performance optimization - v9.7.8
+Updated project documentation - v8.9.7
