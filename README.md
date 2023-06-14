@@ -2475,3 +2475,4 @@ Added input validation - v7.5.2
 Fixed typo in documentation
 Optimized algorithm for better efficiency - update 29
 Optimized algorithm for better efficiency - 708
+Updated configuration settings - v6.3.9
