@@ -3605,3 +3605,4 @@ Updated styling and themes - v5.5.7
 Added new feature for better user experience - 870
 Fixed code formatting issues - update 3
 Added detailed comments for clarity - v8.8.9
+Fixed memory management issue - build 796
