@@ -1553,3 +1553,4 @@ Updated styling and themes
 Updated styling and themes - v6.1.1
 Updated dependencies to latest versions - update 32
 Code cleanup and formatting - 726
+Added detailed comments for clarity - update 21
