@@ -644,3 +644,4 @@ Added detailed comments for clarity - v8.6.6
 Code cleanup and formatting - 771
 Updated project documentation - update 9
 Updated dependencies to latest versions - update 18
+Added new feature for better user experience - 880
