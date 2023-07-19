@@ -2432,3 +2432,4 @@ Updated dependencies to latest versions - build 486
 Updated styling and themes - update 32
 Updated README with new instructions - build 369
 Refactored code for better maintainability - 564
+Added detailed comments for clarity
