@@ -31,3 +31,4 @@ Added new feature for better user experience - 225
 Updated project documentation - v6.9.5
 Fixed memory management issue - update 39
 Fixed memory management issue
+Updated README with new instructions - build 576
