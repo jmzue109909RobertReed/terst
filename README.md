@@ -1628,3 +1628,4 @@ Fixed memory management issue - v9.1.0
 Fixed typo in documentation - update 38
 Fixed typo in documentation - v4.5.5
 Optimized algorithm for better efficiency - build 991
+Added comprehensive test coverage - v9.8.9
