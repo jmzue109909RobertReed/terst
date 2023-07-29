@@ -2783,3 +2783,4 @@ Fixed typo in documentation - update 1
 Refactored code for better maintainability - 678
 Updated README with new instructions - 641
 Updated version number - build 274
+Updated README with new instructions - update 44
