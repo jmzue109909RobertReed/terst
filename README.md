@@ -382,3 +382,4 @@ Added input validation - 127
 Improved user interface design - v5.0.3
 Code cleanup and formatting
 Updated configuration settings - build 818
+Updated README with new instructions - 517
