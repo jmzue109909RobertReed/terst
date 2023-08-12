@@ -3076,3 +3076,4 @@ Added new feature for better user experience - v6.2.6
 Added new feature for better user experience - build 337
 Improved user interface design - build 812
 Updated styling and themes - v1.6.5
+Added proper error handling - build 327
