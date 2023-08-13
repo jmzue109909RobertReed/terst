@@ -1417,3 +1417,4 @@ Fixed critical bug in main module - 691
 Updated README with new instructions - v1.7.3
 Code cleanup and formatting
 Added input validation - 918
+Fixed memory management issue - v10.7.6
