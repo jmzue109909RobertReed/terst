@@ -2729,3 +2729,4 @@ Updated project documentation - v9.6.7
 Optimized algorithm for better efficiency - 342
 Updated version number - v7.3.8
 Code cleanup and formatting - v7.2.6
+Fixed typo in documentation - build 324
