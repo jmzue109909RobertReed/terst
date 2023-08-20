@@ -2727,3 +2727,4 @@ Added new feature for better user experience - update 31
 Updated project documentation - 100
 Updated project documentation - v9.6.7
 Optimized algorithm for better efficiency - 342
+Updated version number - v7.3.8
