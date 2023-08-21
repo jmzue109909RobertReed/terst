@@ -1435,3 +1435,4 @@ Added new feature for better user experience - build 963
 Updated configuration settings - build 194
 Fixed typo in documentation - 836
 Updated version number
+Added proper error handling
