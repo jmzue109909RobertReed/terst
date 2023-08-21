@@ -2732,3 +2732,4 @@ Code cleanup and formatting - v7.2.6
 Fixed typo in documentation - build 324
 Updated configuration settings - v10.9.3
 Updated version number
+Updated configuration settings - 518
