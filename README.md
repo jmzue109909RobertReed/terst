@@ -312,3 +312,4 @@ Updated README with new instructions - v8.0.0
 Updated dependencies to latest versions - v1.5.9
 Code cleanup and formatting - update 1
 Added comprehensive test coverage
+Fixed critical bug in main module
