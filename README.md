@@ -315,3 +315,4 @@ Added comprehensive test coverage
 Fixed critical bug in main module
 Added input validation
 Fixed memory management issue - v9.6.8
+Added detailed comments for clarity
