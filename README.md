@@ -2754,3 +2754,4 @@ Added comprehensive test coverage - 543
 Added proper error handling
 Added proper error handling - build 296
 Updated styling and themes - update 39
+Updated README with new instructions - v3.1.7
