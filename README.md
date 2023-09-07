@@ -1647,3 +1647,4 @@ Added input validation - v1.9.6
 Added new feature for better user experience - v5.9.7
 Updated styling and themes - v3.2.9
 Fixed critical bug in main module - update 21
+Added detailed comments for clarity - v7.9.4
