@@ -2594,3 +2594,4 @@ Fixed memory management issue - v5.0.5
 Updated version number - 846
 Improved user interface design - build 503
 Improved user interface design
+Updated styling and themes
