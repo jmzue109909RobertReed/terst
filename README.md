@@ -1912,3 +1912,4 @@ Fixed code formatting issues - 529
 Fixed code formatting issues - build 836
 Fixed memory management issue - update 46
 Updated dependencies to latest versions - update 49
+Added proper error handling - v10.8.8
