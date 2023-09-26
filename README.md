@@ -1972,3 +1972,4 @@ Fixed typo in documentation - v4.7.1
 Added input validation - update 13
 Updated README with new instructions
 Code cleanup and formatting - v9.8.5
+Fixed memory management issue - v6.5.6
