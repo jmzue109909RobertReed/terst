@@ -2430,3 +2430,4 @@ Improved user interface design - 413
 Updated configuration settings - build 720
 Updated dependencies to latest versions - build 486
 Updated styling and themes - update 32
+Updated README with new instructions - build 369
