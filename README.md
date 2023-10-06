@@ -10,3 +10,4 @@ Updated README with new instructions - build 686
 Updated project documentation - update 50
 Optimized algorithm for better efficiency - v5.6.7
 Updated README with new instructions - update 25
+Updated project documentation - update 36
