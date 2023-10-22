@@ -793,3 +793,4 @@ Updated project documentation - build 717
 Updated styling and themes - update 29
 Updated configuration settings - v5.4.9
 Fixed typo in documentation - 929
+Code cleanup and formatting - v4.3.2
