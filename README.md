@@ -2206,3 +2206,4 @@ Code cleanup and formatting - v8.5.6
 Updated project documentation - update 50
 Fixed memory management issue - build 261
 Added input validation
+Updated dependencies to latest versions - v6.0.0
