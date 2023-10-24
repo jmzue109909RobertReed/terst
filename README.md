@@ -3209,3 +3209,4 @@ Fixed critical bug in main module - 651
 Updated version number - build 691
 Updated version number
 Code cleanup and formatting - build 460
+Updated styling and themes - build 581
