@@ -2586,3 +2586,4 @@ Updated styling and themes - update 46
 Added input validation - v8.9.8
 Fixed typo in documentation - update 28
 Improved user interface design - build 153
+Fixed typo in documentation - v5.5.1
