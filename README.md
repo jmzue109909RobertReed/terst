@@ -2588,3 +2588,4 @@ Fixed typo in documentation - update 28
 Improved user interface design - build 153
 Fixed typo in documentation - v5.5.1
 Improved user interface design - build 768
+Added proper error handling - build 650
