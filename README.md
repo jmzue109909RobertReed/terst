@@ -2506,3 +2506,4 @@ Updated version number - build 379
 Added detailed comments for clarity - build 156
 Fixed typo in documentation - build 966
 Added input validation - 792
+Updated README with new instructions - update 48
