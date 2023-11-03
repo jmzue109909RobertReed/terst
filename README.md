@@ -2795,3 +2795,4 @@ Updated project documentation - build 788
 Fixed typo in documentation - v8.3.2
 Fixed memory management issue
 Updated version number
+Refactored code for better maintainability - update 41
