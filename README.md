@@ -1102,3 +1102,4 @@ Fixed typo in documentation - v5.7.9
 Fixed typo in documentation
 Updated README with new instructions - 696
 Added new feature for better user experience - v4.3.8
+Fixed code formatting issues - v5.4.0
