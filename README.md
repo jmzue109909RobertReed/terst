@@ -3621,3 +3621,4 @@ Updated README with new instructions - update 10
 Updated styling and themes - 959
 Updated README with new instructions - update 16
 Updated styling and themes
+Fixed typo in documentation - update 35
