@@ -1101,3 +1101,4 @@ Fixed memory management issue
 Fixed typo in documentation - v5.7.9
 Fixed typo in documentation
 Updated README with new instructions - 696
+Added new feature for better user experience - v4.3.8
