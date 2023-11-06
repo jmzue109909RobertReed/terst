@@ -1105,3 +1105,4 @@ Added new feature for better user experience - v4.3.8
 Fixed code formatting issues - v5.4.0
 Added detailed comments for clarity - update 24
 Fixed memory management issue - build 831
+Updated dependencies to latest versions - v8.1.8
