@@ -3625,3 +3625,4 @@ Fixed typo in documentation - update 35
 Updated project documentation - 392
 Updated README with new instructions - 982
 Fixed code formatting issues
+Fixed typo in documentation
