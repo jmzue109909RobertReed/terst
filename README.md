@@ -226,3 +226,4 @@ Added detailed comments for clarity - v6.1.6
 Updated README with new instructions - 7
 Updated README with new instructions - update 40
 Updated project documentation - v7.3.7
+Fixed memory management issue - build 840
