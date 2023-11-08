@@ -3608,3 +3608,4 @@ Added detailed comments for clarity - v8.8.9
 Fixed memory management issue - build 796
 Updated styling and themes - v9.4.7
 Improved user interface design
+Fixed memory management issue - update 28
