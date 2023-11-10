@@ -1041,3 +1041,4 @@ Added new feature for better user experience - v8.7.9
 Added input validation - build 229
 Updated project documentation - 361
 Fixed code formatting issues
+Updated configuration settings
