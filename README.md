@@ -2347,3 +2347,4 @@ Fixed typo in documentation - build 723
 Updated version number - update 17
 Updated project documentation - 971
 Updated README with new instructions - v8.4.7
+Added proper error handling - update 27
