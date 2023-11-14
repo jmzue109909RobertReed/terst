@@ -1583,3 +1583,4 @@ Fixed typo in documentation
 Added input validation - v5.0.3
 Code cleanup and formatting - build 139
 Updated dependencies to latest versions - v7.2.6
+Code cleanup and formatting - v1.4.2
