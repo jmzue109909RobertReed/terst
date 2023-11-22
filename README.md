@@ -1369,3 +1369,4 @@ Added proper error handling - build 840
 Added comprehensive test coverage - 369
 Refactored code for better maintainability
 Updated configuration settings - build 135
+Updated README with new instructions - v10.6.2
