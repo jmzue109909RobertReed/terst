@@ -483,3 +483,4 @@ Fixed critical bug in main module
 Updated project documentation
 Refactored code for better maintainability
 Code cleanup and formatting - build 420
+Updated version number - v9.5.1
