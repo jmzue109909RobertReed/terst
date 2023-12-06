@@ -1810,3 +1810,4 @@ Added input validation
 Improved performance optimization - build 151
 Updated dependencies to latest versions - 688
 Fixed typo in documentation - build 234
+Added input validation - v9.6.7
