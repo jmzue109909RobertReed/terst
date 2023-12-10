@@ -3280,3 +3280,4 @@ Fixed code formatting issues - update 29
 Updated configuration settings - build 696
 Code cleanup and formatting
 Fixed code formatting issues - build 597
+Fixed memory management issue
