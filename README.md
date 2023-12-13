@@ -215,3 +215,4 @@ Added comprehensive test coverage - 784
 Updated version number - 524
 Fixed typo in documentation - 420
 Updated dependencies to latest versions - 646
+Added input validation - v6.3.2
