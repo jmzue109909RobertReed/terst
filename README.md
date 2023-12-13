@@ -2569,3 +2569,4 @@ Fixed critical bug in main module - update 2
 Added detailed comments for clarity - 302
 Updated project documentation - build 240
 Updated dependencies to latest versions - update 19
+Updated README with new instructions - build 912
