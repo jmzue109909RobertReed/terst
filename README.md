@@ -1174,3 +1174,4 @@ Fixed code formatting issues - v4.4.0
 Code cleanup and formatting - 64
 Code cleanup and formatting
 Fixed code formatting issues - v10.7.0
+Fixed typo in documentation
