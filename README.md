@@ -1712,3 +1712,4 @@ Added input validation - update 33
 Optimized algorithm for better efficiency - v9.0.4
 Updated version number
 Fixed memory management issue
+Fixed memory management issue - build 198
