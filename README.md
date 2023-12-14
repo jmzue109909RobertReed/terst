@@ -236,3 +236,4 @@ Fixed typo in documentation
 Code cleanup and formatting
 Updated configuration settings - update 16
 Updated project documentation - build 409
+Updated README with new instructions
