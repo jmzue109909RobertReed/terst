@@ -3500,3 +3500,4 @@ Updated README with new instructions - v7.7.7
 Optimized algorithm for better efficiency - update 19
 Code cleanup and formatting - v2.2.5
 Added comprehensive test coverage - v8.3.8
+Updated README with new instructions
