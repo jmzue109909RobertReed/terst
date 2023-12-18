@@ -678,3 +678,4 @@ Fixed code formatting issues
 Updated version number - update 18
 Updated project documentation
 Optimized algorithm for better efficiency - build 571
+Fixed typo in documentation - 962
