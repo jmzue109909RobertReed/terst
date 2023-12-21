@@ -1966,3 +1966,4 @@ Fixed typo in documentation - v2.3.5
 Fixed critical bug in main module
 Refactored code for better maintainability - 642
 Optimized algorithm for better efficiency
+Updated configuration settings - v7.3.8
