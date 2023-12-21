@@ -1970,3 +1970,4 @@ Updated configuration settings - v7.3.8
 Refactored code for better maintainability - update 22
 Fixed typo in documentation - v4.7.1
 Added input validation - update 13
+Updated README with new instructions
