@@ -39,3 +39,4 @@ Fixed memory management issue - 988
 Improved user interface design
 Updated version number - update 2
 Added input validation - 335
+Fixed critical bug in main module
