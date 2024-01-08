@@ -3301,3 +3301,4 @@ Improved user interface design - v6.9.7
 Updated README with new instructions - v2.3.6
 Improved performance optimization - update 14
 Updated README with new instructions - 130
+Fixed memory management issue - build 810
