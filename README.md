@@ -3302,3 +3302,4 @@ Updated README with new instructions - v2.3.6
 Improved performance optimization - update 14
 Updated README with new instructions - 130
 Fixed memory management issue - build 810
+Fixed typo in documentation - update 9
