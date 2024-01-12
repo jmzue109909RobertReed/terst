@@ -3193,3 +3193,4 @@ Added input validation - v5.3.6
 Added new feature for better user experience - update 27
 Fixed typo in documentation - v6.3.0
 Added input validation
+Updated README with new instructions - v6.5.2
