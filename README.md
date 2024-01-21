@@ -1012,3 +1012,4 @@ Optimized algorithm for better efficiency
 Fixed code formatting issues
 Updated version number - 959
 Updated dependencies to latest versions - v3.9.0
+Added new feature for better user experience - 720
