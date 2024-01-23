@@ -2936,3 +2936,4 @@ Code cleanup and formatting
 Updated project documentation - 722
 Added comprehensive test coverage - v4.1.1
 Improved user interface design - build 679
+Updated README with new instructions
