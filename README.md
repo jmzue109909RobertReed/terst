@@ -3511,3 +3511,4 @@ Added proper error handling - 262
 Updated dependencies to latest versions
 Fixed critical bug in main module
 Updated styling and themes
+Added detailed comments for clarity - v1.2.7
