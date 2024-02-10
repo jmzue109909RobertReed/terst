@@ -1457,3 +1457,4 @@ Updated styling and themes - 621
 Optimized algorithm for better efficiency - 62
 Fixed typo in documentation - update 19
 Fixed typo in documentation - 918
+Fixed memory management issue
