@@ -2632,3 +2632,4 @@ Added proper error handling - v5.9.3
 Refactored code for better maintainability - 153
 Fixed typo in documentation - 894
 Updated README with new instructions
+Added detailed comments for clarity - build 509
