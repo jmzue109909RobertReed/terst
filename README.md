@@ -1459,3 +1459,4 @@ Fixed typo in documentation - update 19
 Fixed typo in documentation - 918
 Fixed memory management issue
 Updated version number - update 39
+Added detailed comments for clarity - 526
