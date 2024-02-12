@@ -2110,3 +2110,4 @@ Fixed typo in documentation - v7.6.3
 Refactored code for better maintainability - update 33
 Updated version number - v7.4.4
 Added comprehensive test coverage - v4.1.2
+Updated README with new instructions - v6.1.0
