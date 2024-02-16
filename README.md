@@ -30,3 +30,4 @@ Added comprehensive test coverage
 Added new feature for better user experience - 225
 Updated project documentation - v6.9.5
 Fixed memory management issue - update 39
+Fixed memory management issue
