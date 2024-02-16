@@ -488,3 +488,4 @@ Fixed memory management issue - v6.8.3
 Fixed typo in documentation - v10.1.8
 Code cleanup and formatting - build 172
 Improved performance optimization - v3.4.2
+Fixed memory management issue - 530
