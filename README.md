@@ -2824,3 +2824,4 @@ Code cleanup and formatting - update 31
 Code cleanup and formatting
 Code cleanup and formatting - v7.1.2
 Updated dependencies to latest versions - build 380
+Updated README with new instructions - 370
