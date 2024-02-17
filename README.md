@@ -1267,3 +1267,4 @@ Updated dependencies to latest versions - 855
 Refactored code for better maintainability - update 19
 Fixed typo in documentation - update 40
 Optimized algorithm for better efficiency - 82
+Fixed memory management issue
