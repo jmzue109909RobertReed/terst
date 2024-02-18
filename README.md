@@ -3411,3 +3411,4 @@ Updated dependencies to latest versions - 980
 Fixed typo in documentation - build 656
 Fixed critical bug in main module - v3.7.5
 Fixed critical bug in main module - build 194
+Refactored code for better maintainability
