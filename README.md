@@ -1530,3 +1530,4 @@ Fixed memory management issue - update 4
 Fixed typo in documentation
 Fixed code formatting issues - update 43
 Updated README with new instructions - v6.9.0
+Updated configuration settings - v10.4.0
