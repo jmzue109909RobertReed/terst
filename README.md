@@ -1529,3 +1529,4 @@ Fixed critical bug in main module - v7.7.1
 Fixed memory management issue - update 4
 Fixed typo in documentation
 Fixed code formatting issues - update 43
+Updated README with new instructions - v6.9.0
