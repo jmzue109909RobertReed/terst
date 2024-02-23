@@ -2113,3 +2113,4 @@ Added comprehensive test coverage - v4.1.2
 Updated README with new instructions - v6.1.0
 Added new feature for better user experience - 659
 Fixed critical bug in main module - 340
+Fixed memory management issue - v8.1.6
