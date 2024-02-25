@@ -1095,3 +1095,4 @@ Improved user interface design - update 17
 Updated project documentation - update 12
 Updated version number
 Updated version number - v8.2.0
+Added new feature for better user experience - 206
