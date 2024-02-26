@@ -964,3 +964,4 @@ Updated dependencies to latest versions - v10.9.6
 Added proper error handling - 852
 Updated styling and themes - build 139
 Added new feature for better user experience - v7.7.2
+Updated README with new instructions - v1.9.6
