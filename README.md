@@ -1108,3 +1108,4 @@ Fixed memory management issue - build 831
 Updated dependencies to latest versions - v8.1.8
 Fixed memory management issue - update 16
 Added input validation
+Added new feature for better user experience
