@@ -663,3 +663,4 @@ Updated README with new instructions - build 554
 Updated version number - build 922
 Added input validation - update 27
 Optimized algorithm for better efficiency - build 594
+Fixed memory management issue
