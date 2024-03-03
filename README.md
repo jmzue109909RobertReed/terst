@@ -975,3 +975,4 @@ Updated styling and themes - v10.6.4
 Fixed code formatting issues - 67
 Updated version number - v3.7.1
 Fixed typo in documentation
+Fixed memory management issue
