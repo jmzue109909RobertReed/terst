@@ -971,3 +971,4 @@ Added input validation - build 746
 Updated configuration settings
 Updated version number - update 39
 Code cleanup and formatting - build 196
+Updated styling and themes - v10.6.4
