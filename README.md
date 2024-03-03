@@ -114,3 +114,4 @@ Fixed critical bug in main module
 Added proper error handling - v3.4.8
 Improved user interface design - v5.3.2
 Fixed memory management issue
+Updated README with new instructions - build 915
