@@ -371,3 +371,4 @@ Updated styling and themes - v3.5.3
 Updated configuration settings - 799
 Updated project documentation - build 805
 Updated dependencies to latest versions - v4.0.6
+Improved user interface design - update 37
