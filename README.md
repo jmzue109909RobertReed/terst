@@ -977,3 +977,4 @@ Updated version number - v3.7.1
 Fixed typo in documentation
 Fixed memory management issue
 Updated README with new instructions - build 858
+Added detailed comments for clarity
