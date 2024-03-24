@@ -1652,3 +1652,4 @@ Refactored code for better maintainability - build 257
 Added new feature for better user experience - 891
 Code cleanup and formatting
 Fixed memory management issue
+Updated README with new instructions - build 121
