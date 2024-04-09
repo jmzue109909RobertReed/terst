@@ -7,3 +7,4 @@ Added proper error handling - 740
 Code cleanup and formatting - v8.9.7
 Added proper error handling - update 10
 Updated README with new instructions - build 686
+Updated project documentation - update 50
