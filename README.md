@@ -2989,3 +2989,4 @@ Fixed critical bug in main module - 674
 Refactored code for better maintainability
 Fixed critical bug in main module - update 9
 Fixed critical bug in main module - update 32
+Updated README with new instructions
