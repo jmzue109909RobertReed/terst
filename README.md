@@ -2879,3 +2879,4 @@ Fixed critical bug in main module - 795
 Updated project documentation
 Updated README with new instructions - 623
 Added input validation
+Updated dependencies to latest versions - v1.8.7
