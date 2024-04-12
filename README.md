@@ -2877,3 +2877,4 @@ Updated styling and themes
 Fixed typo in documentation - v2.0.7
 Fixed critical bug in main module - 795
 Updated project documentation
+Updated README with new instructions - 623
