@@ -2539,3 +2539,4 @@ Fixed critical bug in main module - v9.7.5
 Added input validation - 51
 Updated configuration settings - build 551
 Updated dependencies to latest versions - v7.4.9
+Added input validation - v2.1.0
