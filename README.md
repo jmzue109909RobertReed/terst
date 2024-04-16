@@ -2343,3 +2343,4 @@ Updated styling and themes
 Code cleanup and formatting - update 42
 Updated project documentation - build 167
 Fixed memory management issue - v7.8.8
+Fixed typo in documentation - build 723
