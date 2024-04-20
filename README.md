@@ -2424,3 +2424,4 @@ Updated version number - v9.2.6
 Updated styling and themes - v2.4.6
 Updated configuration settings - 320
 Added proper error handling
+Updated README with new instructions - v4.5.5
