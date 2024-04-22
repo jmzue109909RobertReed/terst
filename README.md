@@ -138,3 +138,4 @@ Updated styling and themes - 839
 Updated version number - update 46
 Added proper error handling - update 9
 Updated version number
+Code cleanup and formatting
