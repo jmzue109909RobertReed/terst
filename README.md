@@ -140,3 +140,4 @@ Added proper error handling - update 9
 Updated version number
 Code cleanup and formatting
 Refactored code for better maintainability - 120
+Added comprehensive test coverage - v5.0.9
