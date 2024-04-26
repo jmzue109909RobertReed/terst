@@ -1901,3 +1901,4 @@ Added proper error handling - 715
 Fixed critical bug in main module - v3.2.6
 Improved user interface design - build 451
 Fixed code formatting issues - v3.1.5
+Updated README with new instructions
