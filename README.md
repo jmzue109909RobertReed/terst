@@ -44,3 +44,4 @@ Updated README with new instructions - v7.2.7
 Fixed critical bug in main module - update 9
 Added comprehensive test coverage - update 22
 Code cleanup and formatting - update 19
+Updated README with new instructions - update 33
