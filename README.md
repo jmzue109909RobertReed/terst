@@ -2944,3 +2944,4 @@ Added comprehensive test coverage - 238
 Updated configuration settings - 737
 Code cleanup and formatting - update 33
 Added detailed comments for clarity - 720
+Updated README with new instructions - v3.0.9
