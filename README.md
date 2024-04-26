@@ -505,3 +505,4 @@ Added new feature for better user experience - update 30
 Fixed memory management issue - 391
 Optimized algorithm for better efficiency
 Updated README with new instructions - update 23
+Fixed memory management issue - update 37
