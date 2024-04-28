@@ -1313,3 +1313,4 @@ Updated project documentation
 Updated project documentation - update 30
 Fixed code formatting issues - build 414
 Improved performance optimization - 364
+Fixed memory management issue - v1.7.5
