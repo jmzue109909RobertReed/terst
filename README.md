@@ -447,3 +447,4 @@ Added new feature for better user experience - v7.3.2
 Fixed critical bug in main module
 Updated project documentation
 Updated README with new instructions - 703
+Updated styling and themes
