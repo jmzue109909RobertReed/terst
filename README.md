@@ -2719,3 +2719,4 @@ Code cleanup and formatting
 Added proper error handling - v8.0.9
 Fixed code formatting issues - update 23
 Added new feature for better user experience - update 11
+Fixed memory management issue - v2.1.8
