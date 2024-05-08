@@ -1276,3 +1276,4 @@ Fixed memory management issue - build 232
 Updated version number - build 689
 Updated version number - update 19
 Updated styling and themes - build 505
+Updated dependencies to latest versions - 878
