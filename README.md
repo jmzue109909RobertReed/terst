@@ -63,3 +63,4 @@ Updated version number - 607
 Added proper error handling - build 622
 Updated configuration settings
 Added new feature for better user experience
+Fixed critical bug in main module - v3.7.5
