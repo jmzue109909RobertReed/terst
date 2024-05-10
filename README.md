@@ -530,3 +530,4 @@ Added detailed comments for clarity - build 248
 Improved performance optimization - build 103
 Updated README with new instructions - v7.8.0
 Added comprehensive test coverage - v7.9.4
+Fixed typo in documentation - v9.7.1
