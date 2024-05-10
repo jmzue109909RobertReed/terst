@@ -87,3 +87,4 @@ Added input validation - update 4
 Updated styling and themes
 Improved performance optimization - update 37
 Updated version number - 703
+Added detailed comments for clarity - update 17
