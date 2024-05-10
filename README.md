@@ -439,3 +439,4 @@ Updated styling and themes - build 545
 Updated version number
 Updated version number - v3.2.9
 Optimized algorithm for better efficiency - update 14
+Updated dependencies to latest versions - v8.1.4
