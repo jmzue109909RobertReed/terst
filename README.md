@@ -3361,3 +3361,4 @@ Updated configuration settings
 Updated project documentation - update 19
 Added comprehensive test coverage - update 34
 Fixed typo in documentation - 736
+Updated README with new instructions - update 36
