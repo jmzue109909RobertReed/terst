@@ -1846,3 +1846,4 @@ Added input validation - v3.9.0
 Added detailed comments for clarity - update 12
 Updated project documentation - 194
 Updated README with new instructions - update 17
+Fixed typo in documentation - 497
