@@ -1359,3 +1359,4 @@ Code cleanup and formatting - build 885
 Added proper error handling - 457
 Added input validation - v6.8.4
 Fixed critical bug in main module - update 13
+Updated README with new instructions
