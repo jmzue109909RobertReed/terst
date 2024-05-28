@@ -186,3 +186,4 @@ Updated dependencies to latest versions - 520
 Added new feature for better user experience - build 484
 Updated version number - build 791
 Added input validation
+Updated project documentation - v9.6.0
