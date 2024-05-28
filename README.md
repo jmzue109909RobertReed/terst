@@ -187,3 +187,4 @@ Added new feature for better user experience - build 484
 Updated version number - build 791
 Added input validation
 Updated project documentation - v9.6.0
+Improved user interface design - v4.0.9
