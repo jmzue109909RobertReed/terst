@@ -569,3 +569,4 @@ Updated styling and themes - v5.3.0
 Added proper error handling
 Updated configuration settings - update 48
 Code cleanup and formatting - 743
+Fixed memory management issue
