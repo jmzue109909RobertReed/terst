@@ -2550,3 +2550,4 @@ Added input validation - v5.2.7
 Updated project documentation - build 502
 Fixed typo in documentation - 857
 Added new feature for better user experience - update 34
+Updated styling and themes - build 115
