@@ -284,3 +284,4 @@ Updated project documentation - update 19
 Added new feature for better user experience - build 384
 Added detailed comments for clarity - update 14
 Updated configuration settings - 542
+Fixed memory management issue - v5.5.8
