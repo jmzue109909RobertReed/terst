@@ -2760,3 +2760,4 @@ Updated README with new instructions - 584
 Fixed memory management issue - build 502
 Code cleanup and formatting - v7.6.5
 Updated version number - 377
+Fixed memory management issue - 357
