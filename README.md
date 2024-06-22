@@ -3561,3 +3561,4 @@ Improved user interface design - v1.4.7
 Optimized algorithm for better efficiency - 31
 Code cleanup and formatting - 381
 Fixed memory management issue
+Fixed typo in documentation - 794
