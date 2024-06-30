@@ -3537,3 +3537,4 @@ Added proper error handling - v6.5.5
 Updated version number
 Fixed critical bug in main module - 511
 Added proper error handling - build 935
+Updated version number - build 582
