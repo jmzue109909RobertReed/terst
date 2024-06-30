@@ -3539,3 +3539,4 @@ Fixed critical bug in main module - 511
 Added proper error handling - build 935
 Updated version number - build 582
 Added detailed comments for clarity - update 23
+Updated README with new instructions - v8.0.2
