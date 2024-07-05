@@ -708,3 +708,4 @@ Added new feature for better user experience - update 26
 Improved performance optimization - v5.4.6
 Optimized algorithm for better efficiency - update 4
 Added input validation
+Updated README with new instructions
