@@ -2511,3 +2511,4 @@ Updated README with new instructions - update 5
 Refactored code for better maintainability - 773
 Refactored code for better maintainability - update 7
 Updated project documentation - update 12
+Updated README with new instructions - v4.7.6
