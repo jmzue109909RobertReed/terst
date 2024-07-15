@@ -309,3 +309,4 @@ Fixed typo in documentation - v10.7.4
 Updated version number - build 258
 Fixed critical bug in main module - v2.9.7
 Updated README with new instructions - v8.0.0
+Updated dependencies to latest versions - v1.5.9
