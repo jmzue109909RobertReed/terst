@@ -1732,3 +1732,4 @@ Added detailed comments for clarity - 118
 Fixed critical bug in main module - build 726
 Added new feature for better user experience
 Updated styling and themes
+Updated README with new instructions - build 755
