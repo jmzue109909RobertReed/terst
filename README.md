@@ -1735,3 +1735,4 @@ Updated styling and themes
 Updated README with new instructions - build 755
 Fixed code formatting issues - v6.6.2
 Optimized algorithm for better efficiency - v4.6.6
+Fixed memory management issue - build 871
