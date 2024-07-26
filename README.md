@@ -1592,3 +1592,4 @@ Updated version number - update 3
 Updated README with new instructions
 Fixed typo in documentation - update 36
 Updated dependencies to latest versions
+Improved performance optimization - v1.6.7
