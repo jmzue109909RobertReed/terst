@@ -1594,3 +1594,4 @@ Fixed typo in documentation - update 36
 Updated dependencies to latest versions
 Improved performance optimization - v1.6.7
 Improved user interface design
+Updated README with new instructions - build 815
