@@ -689,3 +689,4 @@ Optimized algorithm for better efficiency - v3.6.3
 Improved user interface design - 660
 Improved user interface design - build 114
 Refactored code for better maintainability
+Fixed typo in documentation
