@@ -638,3 +638,4 @@ Updated version number - 765
 Improved performance optimization - v10.9.4
 Code cleanup and formatting - 164
 Updated README with new instructions
+Added detailed comments for clarity - 797
