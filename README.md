@@ -640,3 +640,4 @@ Code cleanup and formatting - 164
 Updated README with new instructions
 Added detailed comments for clarity - 797
 Fixed typo in documentation - 115
+Added detailed comments for clarity - v8.6.6
