@@ -105,3 +105,4 @@ Improved user interface design - v9.6.3
 Added new feature for better user experience - update 5
 Updated configuration settings
 Fixed typo in documentation - 852
+Added detailed comments for clarity
