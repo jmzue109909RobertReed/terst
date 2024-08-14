@@ -553,3 +553,4 @@ Fixed code formatting issues
 Added new feature for better user experience - build 111
 Added new feature for better user experience - 625
 Updated project documentation
+Added new feature for better user experience - v8.5.7
