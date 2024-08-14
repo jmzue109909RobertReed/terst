@@ -554,3 +554,4 @@ Added new feature for better user experience - build 111
 Added new feature for better user experience - 625
 Updated project documentation
 Added new feature for better user experience - v8.5.7
+Improved user interface design - v8.1.7
