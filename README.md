@@ -2985,3 +2985,4 @@ Fixed typo in documentation - v8.3.0
 Refactored code for better maintainability - update 7
 Updated dependencies to latest versions - build 796
 Fixed typo in documentation - v2.6.7
+Fixed critical bug in main module - 674
