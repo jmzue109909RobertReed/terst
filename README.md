@@ -360,3 +360,4 @@ Added proper error handling - build 407
 Added proper error handling
 Updated dependencies to latest versions - build 588
 Updated README with new instructions
+Updated version number
