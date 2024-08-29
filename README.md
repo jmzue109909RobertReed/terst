@@ -3520,3 +3520,4 @@ Fixed critical bug in main module
 Updated version number
 Optimized algorithm for better efficiency - build 401
 Updated README with new instructions - update 8
+Added detailed comments for clarity - 614
