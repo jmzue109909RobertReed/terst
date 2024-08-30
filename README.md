@@ -3203,3 +3203,4 @@ Improved user interface design
 Fixed typo in documentation
 Updated version number
 Improved user interface design - v10.7.0
+Updated configuration settings - 713
