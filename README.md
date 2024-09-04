@@ -759,3 +759,4 @@ Fixed code formatting issues - build 909
 Added input validation - update 14
 Updated README with new instructions
 Updated dependencies to latest versions - v4.2.8
+Fixed memory management issue - v9.9.5
