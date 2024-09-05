@@ -3027,3 +3027,4 @@ Updated styling and themes - update 20
 Updated project documentation - v7.9.5
 Updated project documentation
 Code cleanup and formatting - v3.7.1
+Updated README with new instructions
