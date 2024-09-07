@@ -2797,3 +2797,4 @@ Fixed memory management issue
 Updated version number
 Refactored code for better maintainability - update 41
 Code cleanup and formatting - v8.0.5
+Updated configuration settings - build 509
