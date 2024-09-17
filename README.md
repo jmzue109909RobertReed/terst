@@ -745,3 +745,4 @@ Updated styling and themes - 335
 Updated README with new instructions - update 22
 Added new feature for better user experience - 735
 Code cleanup and formatting
+Added detailed comments for clarity
