@@ -2073,3 +2073,4 @@ Fixed typo in documentation - v3.8.7
 Fixed typo in documentation
 Refactored code for better maintainability - 984
 Added new feature for better user experience - 171
+Code cleanup and formatting - update 19
