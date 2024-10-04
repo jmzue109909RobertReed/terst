@@ -3261,3 +3261,4 @@ Code cleanup and formatting - v9.6.4
 Added comprehensive test coverage - build 792
 Updated styling and themes - 295
 Improved performance optimization - 27
+Updated README with new instructions - v7.1.3
