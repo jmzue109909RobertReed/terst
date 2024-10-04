@@ -3263,3 +3263,4 @@ Updated styling and themes - 295
 Improved performance optimization - 27
 Updated README with new instructions - v7.1.3
 Updated README with new instructions - 579
+Updated version number
