@@ -3265,3 +3265,4 @@ Updated README with new instructions - v7.1.3
 Updated README with new instructions - 579
 Updated version number
 Fixed typo in documentation - v4.1.8
+Fixed typo in documentation - build 341
