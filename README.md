@@ -2039,3 +2039,4 @@ Added new feature for better user experience
 Fixed typo in documentation
 Added proper error handling - v7.0.8
 Improved performance optimization - 347
+Added proper error handling - v6.5.9
