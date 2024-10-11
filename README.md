@@ -558,3 +558,4 @@ Improved user interface design - v8.1.7
 Added input validation - v1.6.7
 Fixed code formatting issues - update 7
 Fixed typo in documentation - 630
+Added detailed comments for clarity - v7.8.7
