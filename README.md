@@ -1931,3 +1931,4 @@ Updated dependencies to latest versions - update 33
 Code cleanup and formatting - update 37
 Updated README with new instructions
 Code cleanup and formatting - 16
+Updated configuration settings
