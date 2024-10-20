@@ -2164,3 +2164,4 @@ Added detailed comments for clarity - 944
 Fixed typo in documentation - build 770
 Fixed code formatting issues - 175
 Refactored code for better maintainability - v2.4.1
+Fixed memory management issue - 43
