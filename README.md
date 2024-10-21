@@ -633,3 +633,4 @@ Fixed typo in documentation - update 37
 Updated project documentation
 Updated version number - v5.7.0
 Fixed code formatting issues - update 25
+Fixed typo in documentation - v2.3.8
