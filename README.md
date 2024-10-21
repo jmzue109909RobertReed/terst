@@ -632,3 +632,4 @@ Fixed critical bug in main module - update 10
 Fixed typo in documentation - update 37
 Updated project documentation
 Updated version number - v5.7.0
+Fixed code formatting issues - update 25
