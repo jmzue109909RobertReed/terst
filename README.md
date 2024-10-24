@@ -1755,3 +1755,4 @@ Updated dependencies to latest versions - v5.4.0
 Updated dependencies to latest versions - v4.5.5
 Code cleanup and formatting
 Added proper error handling
+Fixed typo in documentation
