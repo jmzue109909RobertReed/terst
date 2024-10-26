@@ -1191,3 +1191,4 @@ Improved user interface design - update 41
 Added proper error handling - update 5
 Updated project documentation - v3.5.9
 Fixed typo in documentation - 795
+Added proper error handling - v9.9.8
