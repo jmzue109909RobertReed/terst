@@ -451,3 +451,4 @@ Updated styling and themes
 Fixed memory management issue - build 773
 Improved performance optimization - v8.4.7
 Code cleanup and formatting - 27
+Added detailed comments for clarity - 437
