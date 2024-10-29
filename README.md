@@ -1309,3 +1309,4 @@ Updated README with new instructions - v5.7.2
 Updated project documentation - v2.5.5
 Optimized algorithm for better efficiency - build 950
 Added input validation
+Updated project documentation
