@@ -1306,3 +1306,4 @@ Updated version number - v5.9.5
 Added input validation - build 514
 Fixed memory management issue - update 7
 Updated README with new instructions - v5.7.2
+Updated project documentation - v2.5.5
