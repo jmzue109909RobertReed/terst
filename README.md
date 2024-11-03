@@ -2496,3 +2496,4 @@ Fixed code formatting issues - 495
 Updated version number - update 10
 Added proper error handling - build 670
 Added detailed comments for clarity - update 47
+Updated README with new instructions - update 39
