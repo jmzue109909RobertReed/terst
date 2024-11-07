@@ -591,3 +591,4 @@ Fixed typo in documentation - 281
 Updated version number
 Improved user interface design - build 846
 Fixed memory management issue - update 27
+Fixed typo in documentation - build 489
