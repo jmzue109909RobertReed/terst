@@ -1812,3 +1812,4 @@ Updated dependencies to latest versions - 688
 Fixed typo in documentation - build 234
 Added input validation - v9.6.7
 Refactored code for better maintainability
+Fixed code formatting issues - v5.9.4
