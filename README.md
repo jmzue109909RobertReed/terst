@@ -2291,3 +2291,4 @@ Code cleanup and formatting - v5.7.9
 Updated README with new instructions - 745
 Fixed critical bug in main module - 566
 Refactored code for better maintainability - v2.2.7
+Added proper error handling - v1.2.5
