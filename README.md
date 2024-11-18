@@ -2077,3 +2077,4 @@ Code cleanup and formatting - update 19
 Fixed typo in documentation
 Code cleanup and formatting - build 199
 Fixed code formatting issues - build 309
+Fixed critical bug in main module - v1.2.4
