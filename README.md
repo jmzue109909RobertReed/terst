@@ -2229,3 +2229,4 @@ Fixed code formatting issues - build 460
 Added detailed comments for clarity - update 26
 Added detailed comments for clarity - update 13
 Fixed code formatting issues - v1.7.9
+Fixed typo in documentation - v8.7.4
