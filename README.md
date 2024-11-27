@@ -3242,3 +3242,4 @@ Added new feature for better user experience
 Updated dependencies to latest versions - update 16
 Updated project documentation
 Added new feature for better user experience - 398
+Fixed memory management issue - 153
