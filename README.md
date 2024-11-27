@@ -3243,3 +3243,4 @@ Updated dependencies to latest versions - update 16
 Updated project documentation
 Added new feature for better user experience - 398
 Fixed memory management issue - 153
+Added comprehensive test coverage - v2.8.0
