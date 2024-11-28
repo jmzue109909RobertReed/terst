@@ -2976,3 +2976,4 @@ Added input validation
 Updated styling and themes - v9.3.6
 Fixed memory management issue - 731
 Fixed memory management issue
+Fixed memory management issue - build 167
