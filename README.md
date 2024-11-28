@@ -2978,3 +2978,4 @@ Fixed memory management issue - 731
 Fixed memory management issue
 Fixed memory management issue - build 167
 Fixed critical bug in main module - update 8
+Updated project documentation - v1.2.9
