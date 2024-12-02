@@ -2233,3 +2233,4 @@ Fixed typo in documentation - v8.7.4
 Updated dependencies to latest versions - build 346
 Code cleanup and formatting
 Updated version number
+Fixed memory management issue - v5.4.7
