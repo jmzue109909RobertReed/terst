@@ -3108,3 +3108,4 @@ Updated version number - 698
 Updated configuration settings
 Fixed typo in documentation
 Added input validation - build 258
+Added proper error handling - v5.3.0
