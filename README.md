@@ -3106,3 +3106,4 @@ Fixed typo in documentation - update 21
 Added input validation - build 943
 Updated version number - 698
 Updated configuration settings
+Fixed typo in documentation
