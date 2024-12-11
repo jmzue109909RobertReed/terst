@@ -32,3 +32,4 @@ Updated project documentation - v6.9.5
 Fixed memory management issue - update 39
 Fixed memory management issue
 Updated README with new instructions - build 576
+Fixed typo in documentation - v9.5.3
