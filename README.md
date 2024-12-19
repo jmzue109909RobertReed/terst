@@ -164,3 +164,4 @@ Fixed code formatting issues - build 422
 Code cleanup and formatting - build 574
 Code cleanup and formatting - v2.3.9
 Fixed typo in documentation
+Added new feature for better user experience - build 204
