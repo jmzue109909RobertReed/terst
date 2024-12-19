@@ -163,3 +163,4 @@ Fixed memory management issue - v1.3.1
 Fixed code formatting issues - build 422
 Code cleanup and formatting - build 574
 Code cleanup and formatting - v2.3.9
+Fixed typo in documentation
