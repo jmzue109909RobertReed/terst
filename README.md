@@ -37,3 +37,4 @@ Fixed critical bug in main module
 Updated README with new instructions - v5.7.4
 Fixed memory management issue - 988
 Improved user interface design
+Updated version number - update 2
