@@ -916,3 +916,4 @@ Updated dependencies to latest versions - update 39
 Updated dependencies to latest versions - 706
 Updated README with new instructions - build 699
 Updated project documentation - build 665
+Updated configuration settings - v1.8.9
