@@ -2741,3 +2741,4 @@ Added proper error handling - update 34
 Updated project documentation - v6.4.8
 Updated dependencies to latest versions
 Improved user interface design - update 24
+Updated README with new instructions - 70
