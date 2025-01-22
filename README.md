@@ -2743,3 +2743,4 @@ Updated dependencies to latest versions
 Improved user interface design - update 24
 Updated README with new instructions - 70
 Optimized algorithm for better efficiency - v4.0.7
+Fixed code formatting issues - 770
