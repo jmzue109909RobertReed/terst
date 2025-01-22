@@ -2745,3 +2745,4 @@ Updated README with new instructions - 70
 Optimized algorithm for better efficiency - v4.0.7
 Fixed code formatting issues - 770
 Improved performance optimization
+Updated README with new instructions - 380
