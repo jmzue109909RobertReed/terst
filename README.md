@@ -49,3 +49,4 @@ Added detailed comments for clarity - update 47
 Refactored code for better maintainability - update 38
 Updated configuration settings - build 939
 Updated configuration settings - v5.2.8
+Code cleanup and formatting - v5.6.6
