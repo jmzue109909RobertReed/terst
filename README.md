@@ -1445,3 +1445,4 @@ Added proper error handling
 Refactored code for better maintainability - v10.8.5
 Added proper error handling - v10.4.3
 Updated version number - v1.3.5
+Added new feature for better user experience - 300
