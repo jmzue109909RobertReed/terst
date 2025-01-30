@@ -2543,3 +2543,4 @@ Added input validation - v2.1.0
 Improved performance optimization - 328
 Added input validation - v10.7.5
 Optimized algorithm for better efficiency - update 24
+Fixed typo in documentation - v5.4.6
