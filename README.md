@@ -2284,3 +2284,4 @@ Added detailed comments for clarity - build 392
 Updated version number - update 21
 Updated README with new instructions
 Improved user interface design
+Updated README with new instructions
