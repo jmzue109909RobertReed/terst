@@ -2844,3 +2844,4 @@ Updated README with new instructions
 Updated styling and themes - v9.6.4
 Updated README with new instructions - 382
 Fixed critical bug in main module - update 10
+Updated version number - update 17
