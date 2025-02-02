@@ -2845,3 +2845,4 @@ Updated styling and themes - v9.6.4
 Updated README with new instructions - 382
 Fixed critical bug in main module - update 10
 Updated version number - update 17
+Fixed typo in documentation - v4.6.3
