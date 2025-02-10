@@ -1288,3 +1288,4 @@ Updated version number
 Added new feature for better user experience - v7.1.0
 Updated styling and themes
 Updated configuration settings - v1.9.2
+Added detailed comments for clarity - v1.9.2
