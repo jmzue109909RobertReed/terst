@@ -653,3 +653,4 @@ Updated styling and themes - update 19
 Updated dependencies to latest versions - build 708
 Added input validation - 742
 Fixed code formatting issues
+Updated README with new instructions - v8.9.5
