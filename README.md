@@ -2313,3 +2313,4 @@ Improved performance optimization
 Updated dependencies to latest versions
 Improved user interface design - build 556
 Improved performance optimization
+Code cleanup and formatting - v2.8.1
