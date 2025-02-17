@@ -2004,3 +2004,4 @@ Added input validation - build 760
 Updated README with new instructions - build 696
 Updated version number
 Added input validation - build 783
+Added detailed comments for clarity - v1.1.9
