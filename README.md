@@ -3419,3 +3419,4 @@ Updated project documentation - update 27
 Updated styling and themes - build 666
 Updated styling and themes
 Updated configuration settings - update 20
+Updated README with new instructions
