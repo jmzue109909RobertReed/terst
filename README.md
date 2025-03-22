@@ -508,3 +508,4 @@ Updated README with new instructions - update 23
 Fixed memory management issue - update 37
 Fixed code formatting issues - 944
 Added input validation - build 724
+Added new feature for better user experience - v1.1.7
