@@ -1643,3 +1643,4 @@ Added input validation - 79
 Updated project documentation - 557
 Added detailed comments for clarity - update 22
 Updated styling and themes - build 107
+Added input validation - v1.9.6
