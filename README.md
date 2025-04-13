@@ -3104,3 +3104,4 @@ Fixed typo in documentation
 Fixed memory management issue - 663
 Fixed typo in documentation - update 21
 Added input validation - build 943
+Updated version number - 698
