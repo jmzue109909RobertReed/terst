@@ -3486,3 +3486,4 @@ Updated version number - v1.2.2
 Fixed critical bug in main module - update 48
 Updated styling and themes
 Updated project documentation - v6.4.1
+Fixed critical bug in main module
