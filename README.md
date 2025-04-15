@@ -2827,3 +2827,4 @@ Updated dependencies to latest versions - build 380
 Updated README with new instructions - 370
 Updated README with new instructions - v5.6.2
 Code cleanup and formatting
+Refactored code for better maintainability - build 366
