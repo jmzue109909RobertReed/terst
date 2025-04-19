@@ -3409,3 +3409,4 @@ Fixed critical bug in main module - build 869
 Added proper error handling - update 49
 Updated dependencies to latest versions - 980
 Fixed typo in documentation - build 656
+Fixed critical bug in main module - v3.7.5
