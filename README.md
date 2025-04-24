@@ -249,3 +249,4 @@ Improved user interface design - update 25
 Fixed typo in documentation - update 13
 Fixed code formatting issues - 729
 Fixed code formatting issues - build 581
+Fixed code formatting issues - v10.8.2
