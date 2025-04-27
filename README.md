@@ -1285,3 +1285,4 @@ Added comprehensive test coverage - v6.6.7
 Fixed code formatting issues - 885
 Added new feature for better user experience
 Updated version number
+Added new feature for better user experience - v7.1.0
