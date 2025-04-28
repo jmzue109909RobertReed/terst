@@ -220,3 +220,4 @@ Refactored code for better maintainability - build 293
 Refactored code for better maintainability - build 988
 Added new feature for better user experience - v3.8.5
 Updated version number - v3.2.1
+Added detailed comments for clarity - v2.8.7
