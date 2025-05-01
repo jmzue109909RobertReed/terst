@@ -2628,3 +2628,4 @@ Fixed memory management issue - v6.1.0
 Refactored code for better maintainability - 849
 Updated README with new instructions
 Added new feature for better user experience - update 31
+Added proper error handling - v5.9.3
