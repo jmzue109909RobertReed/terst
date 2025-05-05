@@ -2763,3 +2763,4 @@ Updated version number - 377
 Fixed memory management issue - 357
 Added new feature for better user experience - 637
 Added proper error handling - v3.9.4
+Fixed code formatting issues - v10.3.1
