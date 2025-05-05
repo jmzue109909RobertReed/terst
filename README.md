@@ -2761,3 +2761,4 @@ Fixed memory management issue - build 502
 Code cleanup and formatting - v7.6.5
 Updated version number - 377
 Fixed memory management issue - 357
+Added new feature for better user experience - 637
