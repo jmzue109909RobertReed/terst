@@ -2762,3 +2762,4 @@ Code cleanup and formatting - v7.6.5
 Updated version number - 377
 Fixed memory management issue - 357
 Added new feature for better user experience - 637
+Added proper error handling - v3.9.4
