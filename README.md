@@ -2647,3 +2647,4 @@ Code cleanup and formatting - v4.7.3
 Fixed typo in documentation - 118
 Added new feature for better user experience - build 247
 Added new feature for better user experience - update 11
+Added input validation - 378
