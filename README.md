@@ -3667,3 +3667,4 @@ Fixed code formatting issues
 Updated styling and themes
 Updated version number - 515
 Fixed code formatting issues - v6.0.3
+Fixed memory management issue
