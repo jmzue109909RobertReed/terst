@@ -2997,3 +2997,4 @@ Fixed code formatting issues - update 38
 Fixed typo in documentation - 389
 Refactored code for better maintainability - v1.1.5
 Improved user interface design - update 16
+Updated version number - v4.9.7
