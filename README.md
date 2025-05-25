@@ -1302,3 +1302,4 @@ Improved performance optimization - build 380
 Updated styling and themes - v5.2.8
 Code cleanup and formatting
 Updated dependencies to latest versions - build 861
+Updated version number - v5.9.5
