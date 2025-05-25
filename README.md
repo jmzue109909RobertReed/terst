@@ -1303,3 +1303,4 @@ Updated styling and themes - v5.2.8
 Code cleanup and formatting
 Updated dependencies to latest versions - build 861
 Updated version number - v5.9.5
+Added input validation - build 514
