@@ -1305,3 +1305,4 @@ Updated dependencies to latest versions - build 861
 Updated version number - v5.9.5
 Added input validation - build 514
 Fixed memory management issue - update 7
+Updated README with new instructions - v5.7.2
