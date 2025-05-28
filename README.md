@@ -3502,3 +3502,4 @@ Code cleanup and formatting - v2.2.5
 Added comprehensive test coverage - v8.3.8
 Updated README with new instructions
 Fixed code formatting issues
+Added detailed comments for clarity
