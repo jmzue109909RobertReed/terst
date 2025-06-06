@@ -3227,3 +3227,4 @@ Updated configuration settings - update 50
 Updated README with new instructions - update 11
 Updated dependencies to latest versions - build 620
 Updated styling and themes - update 18
+Updated README with new instructions - v9.3.2
