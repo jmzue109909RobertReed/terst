@@ -1115,3 +1115,4 @@ Updated version number - build 395
 Updated dependencies to latest versions
 Updated project documentation - build 274
 Updated configuration settings
+Fixed code formatting issues - v2.4.8
