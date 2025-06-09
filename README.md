@@ -83,3 +83,4 @@ Improved user interface design - v3.3.9
 Fixed code formatting issues - build 652
 Improved user interface design - update 44
 Updated styling and themes - 158
+Added input validation - update 4
