@@ -914,3 +914,4 @@ Fixed critical bug in main module
 Added new feature for better user experience - update 36
 Updated dependencies to latest versions - update 39
 Updated dependencies to latest versions - 706
+Updated README with new instructions - build 699
