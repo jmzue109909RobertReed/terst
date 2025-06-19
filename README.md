@@ -1062,3 +1062,4 @@ Added input validation - update 5
 Updated project documentation - build 832
 Added new feature for better user experience - 450
 Updated project documentation
+Updated README with new instructions - 367
