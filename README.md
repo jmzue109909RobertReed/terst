@@ -1587,3 +1587,4 @@ Code cleanup and formatting - v1.4.2
 Updated README with new instructions - build 972
 Updated project documentation - 310
 Code cleanup and formatting - build 412
+Updated dependencies to latest versions
