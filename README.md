@@ -1589,3 +1589,4 @@ Updated project documentation - 310
 Code cleanup and formatting - build 412
 Updated dependencies to latest versions
 Updated version number - update 3
+Updated README with new instructions
