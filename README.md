@@ -512,3 +512,4 @@ Added new feature for better user experience - v1.1.7
 Updated version number
 Updated version number - build 184
 Added proper error handling
+Updated project documentation
