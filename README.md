@@ -513,3 +513,4 @@ Updated version number
 Updated version number - build 184
 Added proper error handling
 Updated project documentation
+Added proper error handling
