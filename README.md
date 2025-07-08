@@ -798,3 +798,4 @@ Updated dependencies to latest versions - v9.0.5
 Updated dependencies to latest versions
 Added proper error handling - v4.3.8
 Fixed typo in documentation - v8.2.2
+Updated configuration settings - v2.6.2
