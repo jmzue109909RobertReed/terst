@@ -3352,3 +3352,4 @@ Added new feature for better user experience - v6.5.6
 Updated version number
 Fixed memory management issue - build 926
 Added proper error handling - update 27
+Updated README with new instructions
