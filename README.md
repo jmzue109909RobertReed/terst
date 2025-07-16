@@ -587,3 +587,4 @@ Improved user interface design - v7.2.6
 Code cleanup and formatting - build 516
 Fixed critical bug in main module - build 497
 Updated project documentation - 803
+Fixed typo in documentation - 281
