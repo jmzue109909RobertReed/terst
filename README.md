@@ -589,3 +589,4 @@ Fixed critical bug in main module - build 497
 Updated project documentation - 803
 Fixed typo in documentation - 281
 Updated version number
+Improved user interface design - build 846
