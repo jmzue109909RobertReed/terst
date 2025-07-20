@@ -2412,3 +2412,4 @@ Updated styling and themes - v7.6.5
 Refactored code for better maintainability - v5.1.1
 Updated configuration settings - v2.2.3
 Added new feature for better user experience
+Fixed typo in documentation - v3.4.1
