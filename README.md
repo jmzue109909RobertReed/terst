@@ -2319,3 +2319,4 @@ Updated README with new instructions - build 978
 Refactored code for better maintainability - update 7
 Fixed memory management issue - v3.6.3
 Optimized algorithm for better efficiency - 457
+Updated README with new instructions
