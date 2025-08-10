@@ -2317,3 +2317,4 @@ Code cleanup and formatting - v2.8.1
 Code cleanup and formatting - update 8
 Updated README with new instructions - build 978
 Refactored code for better maintainability - update 7
+Fixed memory management issue - v3.6.3
