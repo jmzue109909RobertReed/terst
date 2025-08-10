@@ -1898,3 +1898,4 @@ Updated styling and themes
 Updated project documentation - 522
 Updated project documentation - update 27
 Added proper error handling - 715
+Fixed critical bug in main module - v3.2.6
