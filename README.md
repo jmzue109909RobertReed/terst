@@ -3184,3 +3184,4 @@ Updated project documentation - update 8
 Added new feature for better user experience - 703
 Updated styling and themes - build 120
 Fixed code formatting issues - v2.7.3
+Updated styling and themes - 96
