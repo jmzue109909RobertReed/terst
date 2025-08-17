@@ -2926,3 +2926,4 @@ Fixed code formatting issues - 953
 Updated version number - v1.7.3
 Updated styling and themes - 867
 Improved user interface design - build 922
+Fixed code formatting issues
