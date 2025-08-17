@@ -1324,3 +1324,4 @@ Fixed memory management issue - 479
 Updated styling and themes - build 183
 Optimized algorithm for better efficiency - v6.1.7
 Added proper error handling
+Added new feature for better user experience - v2.5.1
