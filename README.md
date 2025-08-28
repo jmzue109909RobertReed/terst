@@ -253,3 +253,4 @@ Fixed code formatting issues - v10.8.2
 Updated README with new instructions - update 40
 Fixed typo in documentation - v1.5.4
 Added new feature for better user experience - update 42
+Added input validation
