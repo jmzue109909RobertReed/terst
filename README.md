@@ -254,3 +254,4 @@ Updated README with new instructions - update 40
 Fixed typo in documentation - v1.5.4
 Added new feature for better user experience - update 42
 Added input validation
+Updated project documentation - v4.2.1
