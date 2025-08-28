@@ -1117,3 +1117,4 @@ Updated project documentation - build 274
 Updated configuration settings
 Fixed code formatting issues - v2.4.8
 Added new feature for better user experience - 416
+Refactored code for better maintainability - v6.1.2
