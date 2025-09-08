@@ -1030,3 +1030,4 @@ Updated dependencies to latest versions - v8.4.9
 Code cleanup and formatting - v8.3.8
 Added comprehensive test coverage
 Added proper error handling - v5.8.3
+Added detailed comments for clarity
