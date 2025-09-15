@@ -825,3 +825,4 @@ Fixed critical bug in main module
 Refactored code for better maintainability - build 675
 Refactored code for better maintainability - build 751
 Code cleanup and formatting - update 31
+Fixed memory management issue - v2.8.5
