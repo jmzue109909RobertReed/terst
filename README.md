@@ -70,3 +70,4 @@ Fixed typo in documentation - 872
 Updated version number - build 716
 Updated version number - 117
 Added proper error handling - build 479
+Improved user interface design - 775
